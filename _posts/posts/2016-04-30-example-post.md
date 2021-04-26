@@ -38,9 +38,12 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 > And this is a blockquote
 
-~~~
-And this is a source code in a block
-Yeah, don't use highligth :D
+~~~ ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
 ~~~
 
 But if you like `inline code`, it's fine.

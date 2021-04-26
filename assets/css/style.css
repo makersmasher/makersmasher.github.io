@@ -64,7 +64,7 @@ a:hover {
 pre {
 	font-family: monospace;
 }
-
+/*
 .highlighter-rouge {
 	color: rgba(255,255,255,0.4);
 }
@@ -78,6 +78,8 @@ pre {
 	padding: 15px;
 	background-color: #0D0D0D;
 }
+*/
+
 
 img, main iframe {
 	width: 80%;

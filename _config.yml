@@ -1,9 +1,9 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
+title: "Welcom to Maker Smasher"
+name: "MakerSmasher"
 keywords: "Key, words, about, this, website"
-baseurl: "/darcli"
-url: "http://website.com"
+baseurl: ""
+url: "https://makersmasher.com"
 description: "Website description"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""

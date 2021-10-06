@@ -31,7 +31,15 @@ social:
 collections: 
   projects:
     output: true
-    permalink: /:collection/title
+    permalink: /:collection/:title
+
+jekyll_compose:
+  default_front_matter:
+    projects:
+      description: :title
+      image: 
+      category: projects
+      tags: projects
     
 
 google_analytics: "UA-188174387-1"

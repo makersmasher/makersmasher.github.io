@@ -15,11 +15,13 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: /index.html
+    url: /
   - title: About
     url: /about
   - title: Contact
     url: /contact
+  - title: Projects
+    url: /projects
 
 social:
   github: makersmasher

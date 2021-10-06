@@ -28,6 +28,12 @@ social:
   twitter: makersmasher
   email: anthony@makersmasher.com
 
+collections: 
+  projects:
+    output: true
+    permalink: /:collection/title
+    
+
 google_analytics: "UA-188174387-1"
 
 disqus:

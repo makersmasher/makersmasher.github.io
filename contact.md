@@ -4,10 +4,9 @@ title: Contact Me
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contact</h1>
   <div class="contactContent">
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:anthony@makersmasher.com">email me</a> </p>
+    <p>To get in touch with me use the form, or shoot me an email: <a href="mailto:anthony@makersmasher.com">Anthony@makersmasher.com</a>.</p>
   </div>
   <form action="https://formspree.io/f/mknkekzy" method="POST">
     <label for="name">Name</label>

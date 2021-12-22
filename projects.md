@@ -4,7 +4,7 @@ title: Projects
 ---
 <div class="post">
         <h1 class="pageTitle">What I am working on.</h1>
-        <p>This is all the random stuff I am working on, basically a scratch bad for things ranging from hockey to x86 ASM.</p>
+        <p>This is all the random stuff I am working on, a scratch bad for things ranging from hockey to x86 ASM.</p>
 
                      {% for project in site.projects %}
                      <h2> <a href="{{ project.url }}">{{ project.title }}</a></h2>

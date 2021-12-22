@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Elements of Computing Systems: Building a Modern Computer from First Principles
+title: The Elements of Computing Systems
 date: 2021-10-06 13:44 -0500
-description: ":title"
+description: Building a Modern Computer from First Principles
 image: 
 category: projects
 tags: projects

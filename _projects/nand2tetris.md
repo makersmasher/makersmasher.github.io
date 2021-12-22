@@ -8,7 +8,7 @@ category: projects
 tags: projects
 ---
 
-# The Elements of Computing Systems: Building a Modern Computer from First Principles
+## The Elements of Computing Systems: Building a Modern Computer from First Principles
 
 As a 3-year college dropout, and mainly a self-taught hacker, I have always been
 a bit insecure regarding my knowledge of the low level bits of how a computer works.

@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 <div class="post">
-        <h1 class="pageTitle">Projects, experiments & notes.</h1>
+        <h1 class="pageTitle">Projects & Notes.</h1>
         <p>This is a scratch bad for things ranging from hockey to x86 ASM.</p>
 
                      {% for project in site.projects %}

@@ -3,25 +3,12 @@ layout: default
 title: Projects
 ---
 <div class="post">
-        <h1 class="pageTitle">What I am working on.</h1>
-        <p>This is all the random stuff I am working on, a scratch bad for things ranging from hockey to x86 ASM.</p>
+        <h1 class="pageTitle">Projects, experiments & notes.</h1>
+        <p>This is a scratch bad for things ranging from hockey to x86 ASM.</p>
 
                      {% for project in site.projects %}
                      <h2> <a href="{{ project.url }}">{{ project.title }}</a></h2>
                      <p>{{ project.description }}</p>
                       {% endfor %}
 
-        <h2>Features</h2>
-        <ul>
-                <li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-                <li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-                <li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-                <li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-                <li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-                <li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-                <li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-                <li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-        </ul>
 </div>

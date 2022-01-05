@@ -680,7 +680,7 @@ body {
   line-height: 1.75;
   font-size: 112.5%;
   color: #fff;
-  background: #111;
+  background: #212020;
   overflow-x: hidden;
   margin: 0; }
   body p, body ul {
@@ -810,7 +810,7 @@ HEADER STYLING
   padding: 0;
   height: 3em; }
   .header .container {
-    background: #111;
+    background: #212020;
     padding: 0;
     max-width: 100%; }
   .header h1 {
@@ -1019,13 +1019,13 @@ POST LIST STYLING
 GLOBAL STYLES
 ***************/
   .content {
-    background: #111;
+    background: #212020;
     padding-top: 0;
     position: relative;
     z-index: 1; }
     .content:after {
       z-index: -1;
-      background: #111;
+      background: #212020;
       content: "";
       display: block;
       width: 100%;

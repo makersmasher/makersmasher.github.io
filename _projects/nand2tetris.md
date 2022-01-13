@@ -18,9 +18,8 @@ From First Principles"</u>.
 
 
 - Boolean algebra and boolean functions can be physically implemented using logic gates.
-- I need to memorize the boolean logic operations and what they do (and, xor etc.)
 - Boolean operations are commutative, associated, and distributive.
-- NOT(X OR Y) = NOT(x) AND NOT(y) - De Morgan laws
+- NOT(X OR Y) = NOT(x) AND NOT(y) - De Morgan laws.
 - Any boolean function can be represented using an expression containing AND, OR and NOT operations.
-- Gate logic - a technique for implementing boolean functions using logic gates
-- Types of logic gates - elementary: (nand, and, or, not), composite: (mux, adder)
+- Gate logic - a technique for implementing boolean functions using logic gates.
+- Types of logic gates - elementary: (nand, and, or, not), composite: (mux, adder).

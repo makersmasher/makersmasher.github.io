@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bug Bounting Learning
+title: Bug Bounty Writeups
 date: 2021-10-06 13:44 -0500
 description: Scratch Pad for tips and tricks while doing bug bounties.
 image: 

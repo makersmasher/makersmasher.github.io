@@ -24,6 +24,8 @@ navigation:
     url: /contact
   - title: Projects
     url: /projects
+  - title: Resume
+    url: /resume
 
 social:
   github: makersmasher
